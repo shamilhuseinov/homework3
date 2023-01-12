@@ -1,0 +1,15 @@
+/Users/samil/Projects/h3/h3/bin/Debug/net7.0/h3
+/Users/samil/Projects/h3/h3/bin/Debug/net7.0/h3.deps.json
+/Users/samil/Projects/h3/h3/bin/Debug/net7.0/h3.runtimeconfig.json
+/Users/samil/Projects/h3/h3/bin/Debug/net7.0/h3.dll
+/Users/samil/Projects/h3/h3/bin/Debug/net7.0/h3.pdb
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/h3.csproj.AssemblyReference.cache
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/h3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/h3.AssemblyInfoInputs.cache
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/h3.AssemblyInfo.cs
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/h3.csproj.CoreCompileInputs.cache
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/h3.dll
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/refint/h3.dll
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/h3.pdb
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/h3.genruntimeconfig.cache
+/Users/samil/Projects/h3/h3/obj/Debug/net7.0/ref/h3.dll
